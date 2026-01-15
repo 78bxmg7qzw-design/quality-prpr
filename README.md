@@ -1,1 +1,1 @@
-Welcome to the retrieval quality PrPr! Import the notebook into Databricks and follow the instructions!
+Welcome to the retrieval quality private preview! Import the notebook into Databricks and follow the instructions!
